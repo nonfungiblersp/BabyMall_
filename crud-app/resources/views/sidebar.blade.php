@@ -203,7 +203,7 @@
                         <div class="collapse " id="pagesExamples">
                             <ul class="nav">
                                 <li class="nav-item ">
-                                    {{-- <a class="nav-link" href="pages/login.html">
+                                    <a class="nav-link" href="pages/login.html">
                                         <span class="sidebar-mini">LP</span>
                                         <span class="sidebar-normal">Login Page</span>
                                     </a>
@@ -230,7 +230,7 @@
                                     <a class="nav-link" href="#lbd">
                                         <span class="sidebar-mini">MCS</span>
                                         <span class="sidebar-normal">More coming soon...</span>
-                                    </a> --}}
+                                    </a>
                                 </li>
                             </ul>
                         </div>
