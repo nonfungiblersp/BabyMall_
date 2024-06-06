@@ -151,7 +151,7 @@
                 <li><a href="checkout.html">Checkout Page</a></li>
                 <li><a href="compare.html">Compare Page</a></li>
                 <li><a href="login.html">Login &amp; Register Page</a></li>
-                <li><a href="myaccount.html">Account Page</a></li>
+                <li><a href="/myaccount.html">Account Page</a></li>
                 <li><a href="wishlist.html">Wishlist Page</a></li>
               </ul>
             </li>
@@ -402,6 +402,14 @@
             <li class="ml-0 <?=$path=='dashboard'?'active':''?> ">
               <a href="/dashboard" class="ps-0"
                 >Home </a>
+              {{-- <ul class="sub-menu">
+                <li><a href="index.html">Home 1</a></li>
+                <li><a href="index-2.html">Home 2</a></li>
+              </ul> --}}
+            </li>
+            <li class="ml-0 <?=$path=='dashboard'?'active':''?> ">
+              <a href="crud-app\resources\views\userside\myaccount.html" class="ps-0"
+                >My Account </a>
               {{-- <ul class="sub-menu">
                 <li><a href="index.html">Home 1</a></li>
                 <li><a href="index-2.html">Home 2</a></li>

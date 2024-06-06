@@ -69,7 +69,7 @@
                 <li><a href="#">New products</a></li>
                 <li><a href="#">Best sales</a></li>
                 <li><a href="/login_register">Login</a></li>
-                <li><a href="myaccount.html">My account</a></li>
+                <li><a href="/myaccount.html">My account</a></li>
               </ul>
               <!-- footer-menu end -->
             </div>
